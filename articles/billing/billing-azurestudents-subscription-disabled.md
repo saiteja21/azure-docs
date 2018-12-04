@@ -25,7 +25,7 @@ Your Azure for Students subscription might get disabled because you have used al
 
 ## You have used all of your credit
 
-Azure for Students account gives you $100 in credit and a limited quantity of free services for 12 months. Any usage beyond the free services and quantities is deducted from your credit. Once your credit runs out, Azure disables your services and subscription. To continue using Azure services, you must upgrade your subscription to a pay-as-you-go subscription by contacting [Azure support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) and providing your credit card information. After you upgrade, your subscription still has access to free services for 12 months from your sign-up date. You only get charged for usage beyond the free services and quantities.
+Azure for Students account gives you $100 in credit and a limited quantity of free services for 12 months. Any usage beyond the free services and quantities is deducted from your credit. Once your credit runs out, Azure disables your services and subscription. To continue using Azure services, you must upgrade your subscription to a pay-as-you-go subscription by contacting [Azure support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) and by updating your payment method on Azure Accounts portal [Add, update, or remove a credit or debit card for Azure](https://docs.microsoft.com/en-us/azure/billing/billing-how-to-change-credit-card). After you upgrade, your subscription still has access to free services for 12 months from your sign-up date. You only get charged for usage beyond the free services and quantities.
 
 You can check your remaining credit on the [Microsoft Azure Sponsorships portal](https://www.microsoftazuresponsorships.com/balance)
 
@@ -47,7 +47,7 @@ The table contains the following columns:
 
 ## Your credit has expired
 
-Your Azure for Students credit expires at the end of 12 months. Once your credit expires, Azure disables your subscription. To continue using Azure services, you must upgrade your subscription to a Pay-As-You-Go subscription by contacting [Azure support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) and providing your credit card information. After you upgrade, Azure charges you pay-as-you-go rates for any services you are using.
+Your Azure for Students credit expires at the end of 12 months. Once your credit expires, Azure disables your subscription. To continue using Azure services, you must upgrade your subscription to a Pay-As-You-Go subscription by contacting [Azure support](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) and by updating your payment method on Azure Accounts portal [Add, update, or remove a credit or debit card for Azure](https://docs.microsoft.com/en-us/azure/billing/billing-how-to-change-credit-card). After you upgrade, Azure charges you pay-as-you-go rates for any services you are using.
 
 
 ## You have accidentally canceled your subscription
